@@ -1,4 +1,6 @@
-<h1 align="center">Aspiring Network Engineer</h1>
+<h3 align="center">ASPIRING NETWORK ENGINEER</h3>
+
+--- 
 
 - I’m currently building my networking knowledge through hands-on labs, simulations, and practical projects using Cisco technologies and networking tools.
 - I’m actively learning computer networking, network security, routing and switching, and network administration.
