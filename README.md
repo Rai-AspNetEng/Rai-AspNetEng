@@ -46,10 +46,10 @@ My current focus is on networking fundamentals, routing and switching, subnettin
 
 | Badge | Certification Name | Issued Date | Verification |
 | :---: | :--- | :---: | :---: |
-| <img src="https://credly.com" width="55" alt="Security and Connectivity Support"> | **Security and Connectivity Support** | Apr 15, 2026 | [Verify Link](https://www.credly.com/badges/aeb5e1b4-3427-4ff0-a5a1-cf2bf22d7d50) |
-| <img src="https://credly.com" width="55" alt="Network Support and Security"> | **Network Support and Security** | Mar 29, 2026 | [Verify Link](https://www.credly.com/badges/5fd2f774-91e1-4495-ad5d-c863a382c73e) |
-| <img src="https://credly.com" width="55" alt="Networking Basics"> | **Networking Basics** | Nov 30, 2025 | [Verify Link](https://www.credly.com/badges/109dc34a-9996-42ea-88b5-b38aa63dba85) |
-| <img src="https://credly.com" width="55" alt="Network Defense"> | **Network Defense** | Nov 21, 2025 | [Verify Link](https://www.credly.com/badges/587aa313-4b28-46bd-9645-47ed216dc0ff) |
-| <img src="https://credly.com" width="55" alt="Operating Systems Basics"> | **Operating Systems Basics** | Sep 30, 2025 | [Verify Link](https://www.credly.com/badges/03bc2965-3fd4-46c6-883e-9f1bd67e15c0) |) |
+| 🌐 | **Security and Connectivity Support** | Apr 15, 2026 | [Verify Link](https://www.credly.com/badges/aeb5e1b4-3427-4ff0-a5a1-cf2bf22d7d50) |
+| 🌐 | **Network Support and Security** | Mar 29, 2026 | [Verify Link](https://www.credly.com/badges/5fd2f774-91e1-4495-ad5d-c863a382c73e) |
+| 🌐 | **Networking Basics** | Nov 30, 2025 | [Verify Link](https://www.credly.com/badges/109dc34a-9996-42ea-88b5-b38aa63dba85) |
+| 🌐 | **Network Defense** | Nov 21, 2025 | [Verify Link](https://www.credly.com/badges/587aa313-4b28-46bd-9645-47ed216dc0ff) |
+| 🌐 | **Operating Systems Basics** | Sep 30, 2025 | [Verify Link](https://www.credly.com/badges/03bc2965-3fd4-46c6-883e-9f1bd67e15c0) |) |
 
 </div>
