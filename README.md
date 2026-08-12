@@ -50,10 +50,10 @@ My current focus is on networking fundamentals, routing and switching, subnettin
 
 | Badge | Certification Name | Issued Date | Verification |
 | :---: | :--- | :---: | :---: |
-| 🌐 | **Security and Connectivity Support** | Apr 15, 2026 | [Verify Link](https://www.credly.com/badges/aeb5e1b4-3427-4ff0-a5a1-cf2bf22d7d50) |
-| 🌐 | **Network Support and Security** | Mar 29, 2026 | [Verify Link](https://www.credly.com/badges/5fd2f774-91e1-4495-ad5d-c863a382c73e) |
-| 🌐 | **Networking Basics** | Nov 30, 2025 | [Verify Link](https://www.credly.com/badges/109dc34a-9996-42ea-88b5-b38aa63dba85) |
-| 🌐 | **Network Defense** | Nov 21, 2025 | [Verify Link](https://www.credly.com/badges/587aa313-4b28-46bd-9645-47ed216dc0ff) |
-| 🌐 | **Operating Systems Basics** | Sep 30, 2025 | [Verify Link](https://www.credly.com/badges/03bc2965-3fd4-46c6-883e-9f1bd67e15c0) |) |
+| <a href="https://www.credly.com/badges/aeb5e1b4-3427-4ff0-a5a1-cf2bf22d7d50/public_url"><img src="https://images.credly.com/size/340x340/images/a42c5fcd-6617-429c-b4a9-8805310e0b10/blob" width="90"></a> | **Security and Connectivity Support** | Apr 15, 2026 | [Verify Badge](https://www.credly.com/badges/aeb5e1b4-3427-4ff0-a5a1-cf2bf22d7d50/public_url) |
+| <a href="https://www.credly.com/badges/5fd2f774-91e1-4495-ad5d-c863a382c73e/public_url"><img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="90"></a> | **Network Support and Security** | Mar 29, 2026 | [Verify Badge](https://www.credly.com/badges/5fd2f774-91e1-4495-ad5d-c863a382c73e/public_url) |
+| <a href="https://www.credly.com/badges/109dc34a-9996-42ea-88b5-b38aa63dba85/public_url"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="90"></a> | **Networking Basics** | Nov 30, 2025 | [Verify Badge](https://www.credly.com/badges/109dc34a-9996-42ea-88b5-b38aa63dba85/public_url) |
+| <a href="https://www.credly.com/badges/587aa313-4b28-46bd-9645-47ed216dc0ff/public_url"><img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="90"></a> | **Network Defense** | Nov 21, 2025 | [Verify Badge](https://www.credly.com/badges/587aa313-4b28-46bd-9645-47ed216dc0ff/public_url) |
+| <a href="https://www.credly.com/badges/03bc2965-3fd4-46c6-883e-9f1bd67e15c0/public_url"><img src="https://images.credly.com/size/340x340/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="90"></a> | **Operating Systems Basics** | Sep 30, 2025 | [Verify Badge](https://www.credly.com/badges/03bc2965-3fd4-46c6-883e-9f1bd67e15c0/public_url) |
 
 </div>
